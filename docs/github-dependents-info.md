@@ -12,16 +12,16 @@
 
 ## Summary
 
-The package is utilized by several organizations and individual developers across 54 total repositories, with 34 being public.
+The package is utilized by several organizations and individual developers across 54 total dependent repositories.
 
-**HeinleinSupport**, **Nomi-CEu**, **Docupike**, and **Collegiate-Edu-Nation** are among the notable organizations and companies integrating this package into their workflows.
+**HeinleinSupport**, **docupike**, and **Collegiate-Edu-Nation** are among the notable organizations integrating this package into their workflows.
 
-The package is frequently integrated into **Checkmk** monitoring extensions and **Jenkins** CI/CD pipelines. It also supports development tools like **VS Code** extensions and **Cypress** automation frameworks.
+The package is frequently integrated into **checkmk** monitoring extensions and **Jenkins** CI/CD pipelines. It also supports development tools like **VS Code** extensions and **Cypress** automation suites.
 
 *   **Nomi-CEu/Nomi-CEu**: A highly popular repository with 270 stars.
-*   **nvuillam/vscode-groovy-lint**: The official VS Code extension integration, holding 84 stars.
-*   **HeinleinSupport/checkMK**: A monitoring-related repository with 9 stars.
-*   **docupike/docs**: Documentation resources with 5 stars.
+*   **nvuillam/vscode-groovy-lint**: The official Visual Studio Code extension integration, holding 84 stars.
+*   **aboe026/software-update-checker**: A utility for tracking software updates.
+*   **aboe026/shields.io-badge-results**: A project focused on dynamic status badges.
 
 ## Package npm-groovy-lint
 
